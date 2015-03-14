@@ -130,6 +130,7 @@ function playToFive() {
                 return [playerWins, computerWins];
             }
 
+// executes game
 playToFive();
 
 
